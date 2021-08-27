@@ -1,0 +1,51 @@
+body{
+	margin:0;
+	padding:0;
+	background-color:#eab676;
+
+}
+
+.title {
+	color: #7e9e09;
+	font-style:bold;
+	font-size:30px;
+	text-align:center;
+	font-style:monospace;
+	
+
+}
+legend{
+	color:red;
+	font-style:italic;
+	font-size:200%;
+	border:0.5px solid green;
+	text-align:left;
+	border-radius:30px;
+}
+.input1{
+	border: 5px solid purple;
+	border-radius:50px;
+	width:150px;
+	text-align:center;
+	background-color:#ba9fe3;
+
+	
+}
+.input2{
+	border-radius:70px;
+	width:150px;
+	border:2px solid yellow;
+	background:#6ded85;
+}
+fieldset{
+	border:3.5px solid green;
+
+}
+a{
+	color:#34abeb;
+	font-style:italic;
+}
+label{
+	color:#8a2d57;
+}
+
